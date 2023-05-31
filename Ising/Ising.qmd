@@ -1,0 +1,5 @@
+---
+title: "Ising Model"
+---
+
+Coming soon...
