@@ -1,5 +1,0 @@
----
-title: "XY Model"
----
-
-Coming soon...
