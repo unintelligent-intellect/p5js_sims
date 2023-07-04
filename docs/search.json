@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Heisenberg/Heisenberg.html",
+    "href": "Heisenberg/Heisenberg.html",
+    "title": "Heisenberg Model",
+    "section": "",
+    "text": "Coming soon…"
+  },
+  {
     "objectID": "FractalFern/fern.html",
     "href": "FractalFern/fern.html",
     "title": "Barnsley’s Fern",
@@ -7,9 +14,9 @@
     "text": "Coming soon…"
   },
   {
-    "objectID": "XYZ/XYZ.html",
-    "href": "XYZ/XYZ.html",
-    "title": "XYZ Model",
+    "objectID": "SinaiBilliard/Sinai.html",
+    "href": "SinaiBilliard/Sinai.html",
+    "title": "Sinai Billiard",
     "section": "",
     "text": "Coming soon…"
   },
@@ -18,7 +25,7 @@
     "href": "index.html",
     "title": "List of Simulations",
     "section": "",
-    "text": "Here are some simulations of famous models of physics by p5.js.\n\nSinai billiard\nIsing model\nXY model\nXYZ model\nBarnsley’s fern"
+    "text": "This page is under construction.\n\n\n\nIf you really want to experience it, a similar simulation is exhibited on this page (Japanese) (The University of Tokyo May Festival 2023, Faculty of Engineering, Dept. of Applied Physics and Dept. of Mathematical Engineering and Information Physics / “Applied Physics Expo” Simulation Group).\n\n\nHere are some simulations of famous models of physics by p5.js.\n\nSinai billiard\nIsing model\nClock model\nHeisenberg model\nBarnsley’s fern"
   },
   {
     "objectID": "Ising/Ising.html",
@@ -28,16 +35,9 @@
     "text": "Coming soon…"
   },
   {
-    "objectID": "XY/XY.html",
-    "href": "XY/XY.html",
-    "title": "XY Model",
-    "section": "",
-    "text": "Coming soon…"
-  },
-  {
-    "objectID": "SinaiBilliard/Sinai.html",
-    "href": "SinaiBilliard/Sinai.html",
-    "title": "Sinai Billiard",
+    "objectID": "Clock/Clock.html",
+    "href": "Clock/Clock.html",
+    "title": "Clock Model",
     "section": "",
     "text": "Coming soon…"
   }
